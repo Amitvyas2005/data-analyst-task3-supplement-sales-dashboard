@@ -19,6 +19,6 @@
 - `Supplement_Sales_Weekly_Expanded.csv`
 - `Supplement_Sales_Dashboard.pbix`
 - `Supplement_Sales_Dashboard.pdf`
-- `dashboard.png`
+- `Supplement_Sales_dashboard.png`
 - `Supplement_Sales_Summary.pptx`
 - `README.md`
